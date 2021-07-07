@@ -1,0 +1,16 @@
+{
+  "name": "elektra-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-map-react": "^2.1.9",
+    "qrcode.react": "^1.0.1"
+  }
+}
